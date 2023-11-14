@@ -21,6 +21,7 @@
 <h2>📄 My Certifications:</h2>
 
 - <b>CompTIA A+ Certification (Obtained Sep. 2023)</b>
+<!--START_SECTION:badges--><!--END_SECTION:badges-->
 
 <h2>📺 Popular YouTube Videos</h2>
 
