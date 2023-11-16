@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rylan! <br/><a href="https://github.com/Rylandale515">Programmer</a>, <a href="https://www.linkedin.com/in/rylan-stalnaker-6ba923180/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -16,14 +16,16 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
  
 <h2>📄 My Certifications:</h2>
 
-- <b>CompTIA A+ Certification (Obtained Sep. 2023)</b>
+[<img align="left" alt="RylanStalnaker | CompTIA A+" width="100px" src="https://github.com/Rylandale515/Rylandale515/assets/34111857/4a00ddb9-0597-4ce8-a105-356d31b2ea26" />][a+cert]</br></br></br></br></br>
 <!--START_SECTION:badges--><!--END_SECTION:badges-->
 
-<h2>📺 Popular YouTube Videos</h2>
+
+
+<!--<h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -41,7 +43,8 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/rylan-stalnaker-6ba923180/ -->
+[a+cert]: https://www.credly.com/badges/8233d4c9-208d-4504-9d3d-0d07ac6722d9/public_url
 
 <!--
 **Rylandale515/Rylandale515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
