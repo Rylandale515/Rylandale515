@@ -20,7 +20,8 @@
  
 <h2>📄 My Certifications:</h2>
 
-[<img align="left" alt="RylanStalnaker | CompTIA A+" width="100px" src="https://github.com/Rylandale515/Rylandale515/assets/34111857/4a00ddb9-0597-4ce8-a105-356d31b2ea26" />][a+cert]</br></br></br></br></br>
+[<img align="left" alt="RylanStalnaker | CompTIA A+" width="100px" src="https://github.com/Rylandale515/Rylandale515/assets/34111857/4a00ddb9-0597-4ce8-a105-356d31b2ea26" />][a+cert]
+<br />
 <!--START_SECTION:badges--><!--END_SECTION:badges-->
 
 
