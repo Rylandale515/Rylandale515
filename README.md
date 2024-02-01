@@ -1,6 +1,8 @@
 <h1>Hi, I'm Rylan! <br/><a href="https://github.com/Rylandale515">Programmer</a>, <a href="https://www.linkedin.com/in/rylan-stalnaker-6ba923180/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- <b>Powershell</b>
+  - [Active Directory User Management](https://github.com/Rylandale515/AD-User-Management)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
