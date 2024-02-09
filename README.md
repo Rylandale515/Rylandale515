@@ -36,6 +36,7 @@
 
 [<img align="left" alt="RylanStalnaker | CompTIA A+" width="150px" src="https://github.com/Rylandale515/Rylandale515/assets/34111857/4a00ddb9-0597-4ce8-a105-356d31b2ea26" />][a+cert]
 [<img align="left" alt="RylanStalnaker | CompTIA Network+" width="150px" src="https://github.com/Rylandale515/Rylandale515/assets/34111857/c04b46a5-50b7-4c86-9544-55beb309754f" />][net+cert]
+<br />
 [<img align="left" alt="RylanStalnaker | CompTIA CIOS" width="150px" src="https://github.com/Rylandale515/Rylandale515/assets/34111857/50880cde-e2fe-4b57-a15a-fbdf773fc7fd" />][cios_cert]
 <br/>
 <br/>
