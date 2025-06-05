@@ -11,7 +11,7 @@
 - 🧑‍💼 [Active Directory User Management (PowerShell)](https://github.com/Rylandale515/AD-User-Management)  
   Created 1000+ AD users using PowerShell scripting and configured a dual-NIC domain with DHCP, DNS, and NAT routing.
 
-- 🔍 [TryHackMe Write-Ups](https://github.com/Rylandale515/tryhackme-writeups) *(Coming Soon)*  
+- 🔍 [TryHackMe Write-Ups](https://github.com/Rylandale515/THM-Write-Ups) *(Coming Soon)*  
   Documenting my journey through SOC Level 1 and Cybersecurity 101 paths with structured, professional walkthroughs.
 
 ---
