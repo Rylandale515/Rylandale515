@@ -64,8 +64,5 @@
 
 ## 🤝 Connect With Me
 
-<a href=""><img src="mailto:rylandale515@gmail.com" width="40px" alt="Email Me"/></a>
-
-📬 Email: [rylandale515@gmail.com](mailto:rylandale515@gmail.com)
-
-<a href="https://www.linkedin.com/in/rylan-stalnaker-6ba923180"><img src="https://github.com/Rylandale515/Rylandale515/assets/34111857/63aef385-a11e-4489-86df-9d73ffea2f7d" width="40px" alt="LinkedIn Profile"/></a>
+<a href="mailto:rylandale515@gmail.com"><img src="https://github.com/user-attachments/assets/f6868b26-f674-477b-b795-5faad0b69abd" alt="Email" width="60px"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rylan-stalnaker-6ba923180"><img src="https://github.com/Rylandale515/Rylandale515/assets/34111857/63aef385-a11e-4489-86df-9d73ffea2f7d" width="60px" alt="LinkedIn Profile"/></a>
