@@ -58,7 +58,7 @@
   <a href="https://www.credly.com/badges/3c30f03e-2fe2-4f76-a116-e71edbff45fd/public_url">
     <img src="https://github.com/user-attachments/assets/d26f0098-2cc7-46a2-87f4-c1c4b0b7967e" width="100px" alt="Associate of ISC2" />
   </a>
-  <a href="/assets/e-cert-1.png" class="image fit">
+  <a href="/assets/e-cert-1.pdf" class="image fit">
     <img width="100" alt="ITIL" src="https://github.com/user-attachments/assets/5b221878-404f-4465-95ac-7e4998f96b37" />
   </a>
 </div>
