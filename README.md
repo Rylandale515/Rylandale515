@@ -43,6 +43,15 @@
   <a href="https://www.credly.com/badges/489aa74c-e92c-4db0-8aed-58888017214d/public_url">
     <img src="https://github.com/user-attachments/assets/20c94006-7008-42a5-906d-40d14731e2f2" width="100px" alt="CSIS" />
   </a>
+  <a href="https://www.credly.com/badges/494c5038-1c0f-4408-8a08-86f8122a324d/public_url">
+    <img src="https://github.com/user-attachments/assets/147b70b9-849c-4f5e-867d-58150adf5f48" width="100px" alt="Project+" />
+  </a>
+  <a href="https://www.credly.com/badges/0224318e-7058-4a7e-bead-908818b1a0f4/public_url">
+    <img src="https://github.com/user-attachments/assets/e5324e40-6dd3-47d2-86e2-83dd42f4225a" width="100px" alt="CySA+" />
+  </a>
+  <a href="https://www.credly.com/badges/cb75e7f0-4df5-49da-b456-eb5da5d434df/public_url">
+    <img src="https://github.com/user-attachments/assets/d95ee264-1aed-4bd4-b3b2-6655cc0d2a61" width="100" alt="CSAP" />
+  </a>
   <a href="https://www.credly.com/badges/1afba32d-58d8-4207-9ef4-0cdf3eb5474a/public_url">
     <img src="https://github.com/user-attachments/assets/209175fa-5776-4815-a2e6-43a6a3017fee" width="100px" alt="Linux Essentials" />
   </a>
