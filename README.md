@@ -19,9 +19,9 @@
 ## 🌱 Currently Learning
 
 - SOC Level 1 Path @ TryHackMe
-- Cybersecurity 101 Path @ TryHackMe (50% complete)
-- Hack The Box: Basic Toolset Path
-- CompTIA Project+
+- Cybersecurity 101 Path @ TryHackMe (69% complete)
+- Hack The Box: Basic Toolset Path (TBC)
+- CompTIA Pentest+
 
 ---
 
