@@ -1,31 +1,29 @@
-# 👋 Hi, I'm Rylan Stalnaker
+# Hi, I’m Rylan Stalnaker
 
-🎯 Aspiring Cybersecurity Analyst | WGU Student | CompTIA Certified  
-🔐 Passionate about SOC operations, blue teaming, and real-world cyber defense  
-📍 Based in Oklahoma | Open to remote and hybrid opportunities
+Aspiring SOC Analyst | Cybersecurity & IT Professional | WGU Student  
+Based in Oklahoma | Open to remote and hybrid opportunities
 
 ---
 
-## 🛠️ Projects & Labs
+## Projects & Labs
 
 - 🧑‍💼 [Active Directory User Management (PowerShell)](https://github.com/Rylandale515/AD-User-Management)  
-  Created 1000+ AD users using PowerShell scripting and configured a dual-NIC domain with DHCP, DNS, and NAT routing.
+   Built a Windows Server 2019 AD lab in VirtualBox, configured DNS/DHCP/NAT, and automated provisioning of 1,000+ users with PowerShell.
 
-- 🔍 [TryHackMe Write-Ups](https://github.com/Rylandale515/THM-Write-Ups) *(Coming Soon)*  
-  Documenting my journey through SOC Level 1 and Cybersecurity 101 paths with structured, professional walkthroughs.
-
----
-
-## 🌱 Currently Learning
-
-- SOC Level 1 Path @ TryHackMe
-- Cybersecurity 101 Path @ TryHackMe (69% complete)
-- Hack The Box: Basic Toolset Path (TBC)
-- CompTIA Pentest+
+- 🔍 [TryHackMe Write-Ups](https://github.com/Rylandale515/THM-Write-Ups)  
+  Structured walkthroughs from SOC Level 1 and Cybersecurity 101 with a focus on repeatable investigation methodology and defensive takeaways.
 
 ---
 
-## 📜 Certifications
+## Currently Learning
+- TryHackMe: SOC Level 1
+- TryHackMe: Cybersecurity 101
+- Hack The Box: foundational labs
+- CompTIA PenTest+ (in progress)
+
+---
+
+## Certifications
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
   <a href="https://www.credly.com/badges/8233d4c9-208d-4504-9d3d-0d07ac6722d9/public_url">
@@ -67,14 +65,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rylandale515&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rylandale515&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-<a href="mailto:rylan.stalnaker.cyber@gmail.com"><img src="https://github.com/user-attachments/assets/f6868b26-f674-477b-b795-5faad0b69abd" alt="Email" width="60px"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rylan-stalnaker-6ba923180"><img src="https://github.com/Rylandale515/Rylandale515/assets/34111857/63aef385-a11e-4489-86df-9d73ffea2f7d" width="60px" alt="LinkedIn Profile"/></a>
+## Connect
+- Email: rylan.stalnaker.cyber@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rylan-stalnaker-6ba923180/
