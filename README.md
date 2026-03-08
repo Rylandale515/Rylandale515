@@ -19,7 +19,6 @@ Based in Oklahoma | Open to remote and hybrid opportunities
 - TryHackMe: SOC Level 1
 - TryHackMe: Cybersecurity 101
 - Hack The Box: foundational labs
-- Capstone Project for BSCSIA Degree
 
 ---
 
