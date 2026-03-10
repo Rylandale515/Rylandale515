@@ -5,7 +5,10 @@ Based in Oklahoma | Open to remote and hybrid opportunities
 
 ---
 
-## Projects & Labs
+## Featured Security Projects
+
+- 🛡️ [SIEM Security Monitoring Lab](https://github.com/Rylandale515/siem-security-monitoring-lab)  
+  Designed and evaluated a Wazuh-based SIEM lab with Windows and Linux endpoints, simulated attacks, centralized log monitoring, and incident-style analysis aligned with SOC workflows.
 
 - 🧑‍💼 [Active Directory User Management (PowerShell)](https://github.com/Rylandale515/AD-User-Management)  
    Built a Windows Server 2019 AD lab in VirtualBox, configured DNS/DHCP/NAT, and automated provisioning of 1,000+ users with PowerShell.
